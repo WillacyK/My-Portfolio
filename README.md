@@ -1,2 +1,3 @@
-# My-Portfolio
-This is my professional Portfolio
+# Willacy Knowles's Portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
